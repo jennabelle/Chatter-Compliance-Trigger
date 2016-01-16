@@ -8,7 +8,6 @@ VERSION     AUTHOR          DATE                DETAIL
 
 public class FeedCommentHandler {
     
-    // recursion
     private boolean m_isExecuting = false;
     private integer batchSize = 0;
     
