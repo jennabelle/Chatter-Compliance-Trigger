@@ -8,5 +8,7 @@ This is a trigger on the 'FeedComment' object and prevents users from commenting
 Components:
 
 ● FeedCommentTrigger.trigger (100% test code coverage)
+
 ● FeedCommentHandler.class (89% test code coverage)
+
 ● Test_FeedCommentTrigger.class
