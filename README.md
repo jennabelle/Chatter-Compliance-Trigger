@@ -3,8 +3,8 @@ Designed to help highly-regulated industries like finance or healthcare companie
 
 This is a trigger on the 'FeedComment' object and prevents users from commenting on tracked feed posts.
 
-FeedCommentTrigger.trigger (100% test code coverage)
+● FeedCommentTrigger.trigger (100% test code coverage)
 
-FeedCommentHandler.class (89% test code coverage)
+● FeedCommentHandler.class (89% test code coverage)
 
-Test_FeedCommentTrigger.class
+● Test_FeedCommentTrigger.class
