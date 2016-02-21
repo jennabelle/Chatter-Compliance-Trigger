@@ -6,6 +6,10 @@ Designed to help highly-regulated industries like finance or healthcare companie
 This is a trigger on the 'FeedComment' object and prevents users from commenting on tracked feed posts.
 
 
+Prerequisite:
+
+● Download & install Chatter Compliance app
+
 
 Components:
 
